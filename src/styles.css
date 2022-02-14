@@ -1,0 +1,87 @@
+.navbar{
+    background-color: black;
+    font-size: 16px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display : inline;
+}
+#brand{
+    color :#87CEFA;
+    font-size: 25px;
+    
+}
+.link a{
+    color : white;
+    text-decoration: none;
+    margin-left: 25px;
+}
+.nav-brand{
+    margin-left : 95px;
+}
+.link1{
+    margin-left : 150px;
+}
+#first{
+    color : white;
+    text-decoration: none;
+}
+.anchors:hover{
+    color :#87CEFA;
+}
+#first:hover{
+    color : #87CEFA;
+}
+input{
+    margin-left: 150px;
+    background-color: black;
+    color : whitesmoke;
+    border : 1px solid white;
+    border-radius: 5px;
+}
+.intro{
+    background-image: url("images/react3.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size:cover;
+}
+
+.heading{
+    color :#5f9bc0;
+    font-style: bold;
+    font-size: 80px;
+    padding-top :120px;
+}
+.subheading{
+    color : white;
+}
+button{
+    color :darkblue;
+    background-color: #5f9bc0;
+    height : 50px;
+    margin-left: 580px;
+    margin-top :25px;
+    width : 150px;
+}
+.tutoriallink{
+    font-size: large;
+    color :#87CEFA;
+    text-decoration :none;
+    margin-left : 25px;
+}
+.tutoriallink:hover{
+    color :white;
+}
+.features{
+    display: inline-table;
+    margin-top: 45px;
+    height :300px;
+    width : 390px;
+    margin-left: 80px;
+    padding-top: 10px;
+}
+h3{
+    color :rgb(146, 133, 133);
+}
